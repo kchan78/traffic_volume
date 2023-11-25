@@ -6,7 +6,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 from calendar import month_abbr, day_name
-import sklearn
 import warnings
 warnings.filterwarnings('ignore')
 
