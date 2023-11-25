@@ -7,6 +7,7 @@ import pandas as pd
 import pickle
 from calendar import month_abbr, day_name
 import warnings
+import sklearn
 warnings.filterwarnings('ignore')
 
 st.title('Predicting Traffic Volume: A Machine Learning App') 
