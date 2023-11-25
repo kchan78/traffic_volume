@@ -14,7 +14,8 @@ st.title('Predicting Traffic Volume: A Machine Learning App')
 # Display the image
 st.image('traffic_image.gif', width = 650)
 
-st.write("This machine learning app uses multiple inputs to predict traffic volume.\n Use the following form to get started!") 
+st.write("This machine learning app uses multiple inputs to predict traffic volume.")
+st.write("Use the following form to get started!") 
 
 # Reading the pickle files that we created before 
 # Decision Tree
